@@ -1,2 +1,2 @@
 # Math_440
-My personal SageMath code and visualizations supporting a team research project on the boundary of anti-de Sitter space (AdS₃) and the properties of spheres in this setting.
+This repository contains my personal code developed as part of a team research project on three-dimensional anti-de Sitter space (AdS₃), focusing on its boundary and the properties of spheres in this setting. Using SageMath, I create computational tools and visualizations to explore geometric relationships and build intuition for the underlying mathematics.
